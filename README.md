@@ -1,4 +1,4 @@
-# Bio-inspired-Artificial-Intelligence-Algorithms
+# Bio-inspired Artificial Intelligence Algorithms
 
 
 Biology provides a plethora of examples of natural processes and patterns. These processes and patterns have created bio-inspired algorithms meant to address real-world problems. 
